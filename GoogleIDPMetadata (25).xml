@@ -26,3 +26,4 @@ qa8OpEDgYMpOvSGq91+7vrQRUfe8VGnIYVG0zv/BogoA</ds:X509Certificate>
     <md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://accounts.google.com/o/saml2/idp?idpid=C00uskvvq"/>
     <md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://accounts.google.com/o/saml2/idp?idpid=C00uskvvq"/>
   </md:IDPSSODescriptor>
+</md:EntityDescriptor>
